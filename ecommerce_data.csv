@@ -1,0 +1,51 @@
+order_id,customer_id,customer_email,customer_age,customer_gender,customer_city,customer_state,order_date,product_id,product_name,product_category,quantity,unit_price,total_amount,payment_method,shipping_method,shipping_cost
+ORD001,CUST001,john.doe@email.com,28,Male,New York,NY,2024-01-15,PROD001,Wireless Headphones,Electronics,2,79.99,159.98,Credit Card,Standard,5.99
+ORD002,CUST002,jane.smith@email.com,34,Female,Los Angeles,CA,2024-01-16,PROD002,Running Shoes,Sports,1,120.00,120.00,PayPal,Express,12.99
+ORD003,CUST003,mike.wilson@email.com,45,Male,Chicago,IL,2024-01-17,PROD003,Coffee Maker,Home & Kitchen,1,89.99,89.99,Debit Card,Standard,7.50
+ORD004,CUST001,john.doe@email.com,28,Male,New York,NY,2024-01-18,PROD004,Smartphone Case,Electronics,3,15.99,47.97,Credit Card,Standard,5.99
+ORD005,CUST004,sarah.johnson@email.com,29,Female,Houston,TX,2024-01-20,PROD005,Yoga Mat,Sports,1,35.00,35.00,Credit Card,Standard,4.99
+ORD006,CUST005,robert.brown@email.com,52,Male,Phoenix,AZ,2024-01-22,PROD006,Office Chair,Furniture,1,199.99,199.99,Credit Card,Express,15.99
+ORD007,CUST002,jane.smith@email.com,34,Female,Los Angeles,CA,2024-01-23,PROD007,Skincare Set,Beauty,2,45.00,90.00,PayPal,Standard,6.99
+ORD008,CUST006,emily.davis@email.com,26,Female,Miami,FL,2024-01-25,PROD001,Wireless Headphones,Electronics,1,79.99,79.99,Credit Card,Express,9.99
+ORD009,CUST007,david.miller@email.com,38,Male,Seattle,WA,2024-01-26,PROD008,Gaming Mouse,Electronics,1,59.99,59.99,Debit Card,Standard,5.99
+ORD010,CUST003,mike.wilson@email.com,45,Male,Chicago,IL,2024-01-28,PROD009,Protein Powder,Health,2,29.99,59.98,Debit Card,Standard,7.50
+ORD011,CUST008,lisa.garcia@email.com,31,Female,Denver,CO,2024-02-01,PROD010,Winter Jacket,Clothing,1,149.99,149.99,Credit Card,Express,12.99
+ORD012,CUST009,chris.martinez@email.com,27,Male,Boston,MA,2024-02-02,PROD002,Running Shoes,Sports,1,120.00,120.00,PayPal,Standard,8.99
+ORD013,CUST004,sarah.johnson@email.com,29,Female,Houston,TX,2024-02-05,PROD011,Cookbook,Books,3,25.99,77.97,Credit Card,Standard,4.99
+ORD014,CUST010,amanda.rodriguez@email.com,33,Female,San Diego,CA,2024-02-07,PROD007,Skincare Set,Beauty,1,45.00,45.00,Credit Card,Standard,6.99
+ORD015,CUST006,emily.davis@email.com,26,Female,Miami,FL,2024-02-08,PROD012,Summer Dress,Clothing,2,39.99,79.98,Credit Card,Express,9.99
+ORD016,CUST011,kevin.lee@email.com,41,Male,Portland,OR,2024-02-10,PROD013,Laptop Stand,Electronics,1,45.99,45.99,Debit Card,Standard,5.99
+ORD017,CUST005,robert.brown@email.com,52,Male,Phoenix,AZ,2024-02-12,PROD014,Desk Lamp,Home & Kitchen,2,32.99,65.98,Credit Card,Standard,6.50
+ORD018,CUST012,michelle.taylor@email.com,35,Female,Atlanta,GA,2024-02-15,PROD015,Fitness Tracker,Electronics,1,89.99,89.99,PayPal,Express,11.99
+ORD019,CUST001,john.doe@email.com,28,Male,New York,NY,2024-02-17,PROD016,Bluetooth Speaker,Electronics,1,65.00,65.00,Credit Card,Standard,5.99
+ORD020,CUST013,daniel.thomas@email.com,42,Male,Las Vegas,NV,2024-02-18,PROD017,Golf Clubs,Sports,1,299.99,299.99,Credit Card,Express,19.99
+ORD021,CUST008,lisa.garcia@email.com,31,Female,Denver,CO,2024-02-20,PROD018,Handbag,Fashion,1,79.99,79.99,Credit Card,Standard,7.99
+ORD022,CUST014,jennifer.white@email.com,29,Female,Nashville,TN,2024-02-22,PROD019,Essential Oils Set,Health,1,49.99,49.99,PayPal,Standard,6.99
+ORD023,CUST009,chris.martinez@email.com,27,Male,Boston,MA,2024-02-25,PROD020,Mechanical Keyboard,Electronics,1,119.99,119.99,Debit Card,Express,12.99
+ORD024,CUST015,ryan.harris@email.com,36,Male,San Francisco,CA,2024-02-27,PROD003,Coffee Maker,Home & Kitchen,1,89.99,89.99,Credit Card,Standard,7.50
+ORD025,CUST010,amanda.rodriguez@email.com,33,Female,San Diego,CA,2024-03-01,PROD021,Sunglasses,Fashion,2,55.00,110.00,Credit Card,Standard,6.99
+ORD026,CUST016,jason.clark@email.com,39,Male,Minneapolis,MN,2024-03-03,PROD022,Power Bank,Electronics,3,25.99,77.97,Debit Card,Standard,5.99
+ORD027,CUST012,michelle.taylor@email.com,35,Female,Atlanta,GA,2024-03-05,PROD023,Face Mask Set,Beauty,4,12.99,51.96,PayPal,Standard,6.99
+ORD028,CUST017,stephanie.lewis@email.com,30,Female,Philadelphia,PA,2024-03-07,PROD024,Scented Candles,Home & Kitchen,6,19.99,119.94,Credit Card,Express,9.99
+ORD029,CUST007,david.miller@email.com,38,Male,Seattle,WA,2024-03-10,PROD025,Gaming Headset,Electronics,1,99.99,99.99,Debit Card,Standard,8.99
+ORD030,CUST018,brandon.walker@email.com,44,Male,Detroit,MI,2024-03-12,PROD026,Tool Set,Home & Garden,1,149.99,149.99,Credit Card,Express,14.99
+ORD031,CUST011,kevin.lee@email.com,41,Male,Portland,OR,2024-03-15,PROD027,Standing Desk,Furniture,1,329.99,329.99,Credit Card,Express,24.99
+ORD032,CUST019,nicole.hall@email.com,32,Female,Tampa,FL,2024-03-17,PROD028,Swimsuit,Clothing,2,45.00,90.00,PayPal,Standard,7.99
+ORD033,CUST013,daniel.thomas@email.com,42,Male,Las Vegas,NV,2024-03-20,PROD029,Wine Glasses Set,Home & Kitchen,1,39.99,39.99,Credit Card,Standard,6.50
+ORD034,CUST020,alexis.young@email.com,26,Female,Charlotte,NC,2024-03-22,PROD030,Phone Charger,Electronics,2,19.99,39.98,Debit Card,Standard,5.99
+ORD035,CUST014,jennifer.white@email.com,29,Female,Nashville,TN,2024-03-25,PROD031,Meditation Cushion,Health,1,35.99,35.99,PayPal,Standard,6.99
+ORD036,CUST021,marcus.king@email.com,47,Male,Baltimore,MD,2024-03-27,PROD032,BBQ Grill,Home & Garden,1,199.99,199.99,Credit Card,Express,19.99
+ORD037,CUST015,ryan.harris@email.com,36,Male,San Francisco,CA,2024-03-30,PROD033,Coffee Beans,Food & Beverage,3,16.99,50.97,Credit Card,Standard,7.50
+ORD038,CUST022,kayla.scott@email.com,28,Female,Orlando,FL,2024-04-02,PROD034,Beach Towel,Home & Kitchen,4,22.99,91.96,Credit Card,Standard,8.99
+ORD039,CUST016,jason.clark@email.com,39,Male,Minneapolis,MN,2024-04-05,PROD035,Protein Bars,Health,12,3.99,47.88,Debit Card,Standard,5.99
+ORD040,CUST023,tyler.green@email.com,33,Male,Columbus,OH,2024-04-08,PROD036,Basketball,Sports,1,29.99,29.99,PayPal,Standard,6.99
+ORD041,CUST017,stephanie.lewis@email.com,30,Female,Philadelphia,PA,2024-04-10,PROD037,Jewelry Box,Fashion,1,69.99,69.99,Credit Card,Express,9.99
+ORD042,CUST024,monica.adams@email.com,37,Female,Indianapolis,IN,2024-04-12,PROD038,Kitchen Scale,Home & Kitchen,1,34.99,34.99,Credit Card,Standard,6.50
+ORD043,CUST018,brandon.walker@email.com,44,Male,Detroit,MI,2024-04-15,PROD039,Car Phone Mount,Electronics,2,24.99,49.98,Credit Card,Standard,5.99
+ORD044,CUST025,jessica.nelson@email.com,31,Female,San Antonio,TX,2024-04-17,PROD040,Pillow Set,Home & Kitchen,2,39.99,79.98,PayPal,Express,12.99
+ORD045,CUST019,nicole.hall@email.com,32,Female,Tampa,FL,2024-04-20,PROD041,Sunscreen,Beauty,3,15.99,47.97,PayPal,Standard,6.99
+ORD046,CUST026,eric.baker@email.com,40,Male,Kansas City,MO,2024-04-22,PROD042,Lawn Mower,Home & Garden,1,249.99,249.99,Credit Card,Express,29.99
+ORD047,CUST020,alexis.young@email.com,26,Female,Charlotte,NC,2024-04-25,PROD043,Phone Case,Electronics,1,25.99,25.99,Debit Card,Standard,5.99
+ORD048,CUST027,andrew.mitchell@email.com,35,Male,Virginia Beach,VA,2024-04-27,PROD044,Camping Tent,Sports,1,159.99,159.99,Credit Card,Express,17.99
+ORD049,CUST021,marcus.king@email.com,47,Male,Baltimore,MD,2024-04-30,PROD045,Grilling Tools,Home & Garden,1,79.99,79.99,Credit Card,Standard,8.99
+ORD050,CUST028,ashley.carter@email.com,29,Female,Milwaukee,WI,2024-05-02,PROD046,Hair Dryer,Beauty,1,69.99,69.99,Credit Card,Express,9.99
